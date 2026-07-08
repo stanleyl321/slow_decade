@@ -1,13 +1,16 @@
 # slow_decade
 
 * Premises and solutions
-* proper React container 
-* React developer (wip) 
+  
+* proper React container
+  
+* React developer (wip)
+  
 * Raspberry Pi 
 
 
 
-A: He will be waiting for you by the way.
+A: The patient and parsimonious pre-empt the overfilling pitcher, by the way.
 
 B: He delivered someone before you even saw me, --
 
