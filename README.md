@@ -1,18 +1,8 @@
-# slow_decade
+# For AI 2026, less energy and better sleep.
 
-* Premises and solutions
-  
-* proper React container
-  
-* React developer (wip)
-  
-* Raspberry Pi 
+A: oveɼpitch, Homeſmans, The öAI man, blah-go-dah-ram.
 
-
-
-A: The patient and parsimonious pre-empt the overfilling pitcher, by the way.
-
-B: He delivered someone before you even saw me, --
+B: [He delivered someone before you even saw me]
 
 He delivered someone you never heard of and you didn't know was with me.
 
